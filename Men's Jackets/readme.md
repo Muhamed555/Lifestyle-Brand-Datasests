@@ -14,4 +14,3 @@ This dataset contains information about men's jackets from Alo Yoga, a lifestyle
 
 The dataset can be used for various purposes, such as exploring the features and prices of men's jackets, analyzing customer feedback and ratings, or building recommendation systems based on product similarity.
 
-Source: https://www.aloyoga.com/collections/short-sleeves
