@@ -1,6 +1,6 @@
 Here is a possible description of the dataset:
 
-This dataset contains information about men's jackets from Alo Yoga, a lifestyle brand that sells yoga-inspired clothing and accessories. The dataset was scraped from the website https://www.aloyoga.com/collections/mens-jackets on 2022-12-15. The dataset has 9 columns and 24 rows, each row representing a different product. The columns are:
+This dataset contains information about men's jackets from Alo Yoga, a lifestyle brand that sells yoga-inspired clothing and accessories. The dataset was scraped from the website https://www.aloyoga.com/collections/mens-jackets on 2023-6-19. The dataset has 9 columns and 24 rows, each row representing a different product. The columns are:
 
 - ID: A unique identifier for each product.
 - Images list: A list of URLs of the images of the product, separated by commas.
